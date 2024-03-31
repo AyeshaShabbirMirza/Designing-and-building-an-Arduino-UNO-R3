@@ -43,5 +43,4 @@ After successful simulation of the schematic, the PCB layout is designed in Prot
 ### Breadboard Implementation
 The circuit is implemented on a breadboard following the schematic and software simulation. The ATmega328p is programmed using an Arduino UNO board and later converted into a PCB by soldering components onto a perf/Vero board.
 
-## Conclusion
 This project demonstrates the process of designing and creating an Arduino Uno R3 board, including component selection, schematic design, PCB layout, and practical implementation. It highlights the importance of each component and their role in ensuring the functionality and reliability of the board.
